@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/navigatiobarApp/static/css/main.a102879e.css",
+    "main.js": "/navigatiobarApp/static/js/main.61a51240.js",
+    "static/js/787.436daf27.chunk.js": "/navigatiobarApp/static/js/787.436daf27.chunk.js",
+    "static/media/logo.svg": "/navigatiobarApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/navigatiobarApp/index.html",
+    "main.a102879e.css.map": "/navigatiobarApp/static/css/main.a102879e.css.map",
+    "main.61a51240.js.map": "/navigatiobarApp/static/js/main.61a51240.js.map",
+    "787.436daf27.chunk.js.map": "/navigatiobarApp/static/js/787.436daf27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.61a51240.js"
+  ]
+}
